@@ -1,0 +1,19 @@
+.products {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+    padding: 10px 0px 10px 20px;
+}
+
+.products h2 {
+    align-self: flex-start;
+    margin: 10px 5px 10px 15px;
+    font-size: 20px;
+}
+
+.itemList {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}

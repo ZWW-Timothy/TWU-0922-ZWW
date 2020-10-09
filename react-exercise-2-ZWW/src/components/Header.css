@@ -1,0 +1,28 @@
+header {
+    background-color: blue;
+    display: flex;
+    justify-content: space-between;
+    height: 60px;
+}
+
+h1 {
+    color: white;
+    line-height: 30px;
+    padding: 15px 10px 15px 10px;
+}
+
+header img {
+    width: 30px;
+    height: 30px;
+    margin: 15px 1px 15px 10px;
+}
+
+header span {
+    background-color: red;
+    color: white;
+    position: relative;
+    border-radius: 3px;
+    margin: 0px 10px 0px 1px;
+    padding: 1px 3px 1px 3px;
+    bottom: 20px;
+}

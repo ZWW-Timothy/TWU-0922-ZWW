@@ -1,0 +1,22 @@
+div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  margin: 10px 0 10px 0;
+  border-bottom: solid rgb(215, 215, 215);
+}
+  
+img {
+  border-radius: 200px;
+  height: 15%;
+  width: 15%;
+  left: 50%;
+  margin: -80px 0 10px 0;
+}
+
+h1,
+h2 {
+  line-height: 45px;
+}

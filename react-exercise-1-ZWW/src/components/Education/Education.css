@@ -1,0 +1,24 @@
+.Education {
+  display: flex;
+  margin-bottom: 20px;
+}
+
+aside h4 {
+  margin: 0;
+  width: 90px;
+  font-size: 14px;
+}
+
+article {
+  background-color: rgb(215, 215, 215);
+  width: 100%;
+}
+
+article h4 {
+  margin: 10px;
+  font-size: 14px;
+}
+
+article p {
+  margin: 10px;
+}
